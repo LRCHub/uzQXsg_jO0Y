@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "dahlah.",
+  "base_artist": "Kaela Kovalskia",
+  "createdAt": "2026-02-25T16:36:45.727861Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "dahlah.",
+      "artist": "Kaela Kovalskia",
+      "has_synced": true,
+      "path": "select/01_dahlah._Kaela_Kovalskia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "dahlah.",
+      "artist": "Kaela Kovalskia",
+      "has_synced": false,
+      "path": "select/pl_01_dahlah._Kaela_Kovalskia.txt"
+    }
+  ]
+}
